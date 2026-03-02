@@ -1,1 +1,2 @@
 This is seond file created from github ui, so for this file to reflect in your local repo you need to pull these changes
+After pulling changes this is being made again in cmd terminal in loacl repository, so this to be visibile in ui, you neeed to push this file again to remote repository
